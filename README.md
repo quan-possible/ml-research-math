@@ -20,6 +20,7 @@ Probably:
 - Graph theory
 - computational geometry
 
-
+Book: 
+- Berner, J., Grohs, P., Kutyniok, G., & Petersen, P. (2021). The Modern Mathematics of Deep Learning. ArXiv, abs/2105.04026.
  
 
